@@ -22,6 +22,8 @@ const albums = [
         { title: "Rise Again", artist: "Lamda", album: "Lamda First Album", duration: "4:33", src: "./songs/Rise Again 4.mp3", cover: "./images/1748968955733.jpg" },
         { title: "Bad Feelings", artist: "Lamda", album: "Lamda First Album", duration: "4:22", src: "./songs/Bad Feelings.mp3", cover: "./images/1748968955733.jpg" },
         { title: "People Are Stupid", artist: "Lamda", album: "Lamda First Album", duration: "3:51", src: "./songs/People Are Stupid.mp3", cover: "./images/1748968955733.jpg" },
+        { title: "Raw Velocity", artist: "Lamda", album: "Lamda First Album", duration: "4:15", src: "./songs/Raw Velocity.wav", cover: "./images/1748968955733.jpg" },
+        { title: "Work", artist: "Lamda", album: "Lamda First Album", duration: "4:42", src: "./songs/Work.wav", cover: "./images/1748968955733.jpg" },
         { title: "Smells Like Tenn Spirit", artist: "Lamda", album: "Lamda First Album", duration: "4:34", src: "./songs/Smells Leke Teen Spirit 3.mp3", cover: "./images/1748968955733.jpg" },
         { title: "Pyrotechnik", artist: "Lamda, Jannis", album: "Lamda First Album", duration: "1:05", src: "./songs/Pyrotechnik Remix.wav", cover: "./images/1748968955733.jpg" },
     ]
